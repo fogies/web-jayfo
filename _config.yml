@@ -4,4 +4,4 @@ baseurl:    /~jfogarty
 markdown:   redcarpet
 pygments:   true
 
-exclude:    ['pythonenv']
+exclude:    ['env']
