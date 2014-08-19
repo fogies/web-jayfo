@@ -3,9 +3,9 @@
 id_conferencepaper_uist2014:
   pubnum: C.53
   authors:
-    -id_author_dixon_morgan
-    -id_author_nied_conrad
-    -id_author_fogarty_james
+    - id_author_dixon_morgan
+    - id_author_nied_conrad
+    - id_author_fogarty_james
   title: 'Prefab Layers and Annotations: Extensible Pixel-Based Interpretation of Graphical Interfaces'
   conference: id_conference_uist_2014
   pages:
