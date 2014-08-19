@@ -10,7 +10,7 @@ id_conferencepaper_uist2014:
   conference: id_conference_uist_2014
   pages:
   officialurl:
-  localthumb:
+  localthumb: uist2014.png
   localpdf: uist2014.pdf
 
 id_conferencepaper_dis2014:
