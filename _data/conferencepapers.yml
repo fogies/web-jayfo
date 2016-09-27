@@ -10,6 +10,8 @@ id_conferencepaper_ubicomp2016:
     - id_author_munson_sean
   title: 'Reconsidering the Device in the Drawer: Lapses as a Design Opportunity in Personal Informatics'
   conference: id_conference_ubicomp_2016
+  pages: 829-840
+  officialurl: http://dx.doi.org/10.1145/2971648.2971656
   localthumb: ubicomp2016.png
   localpdf: ubicomp2016.pdf
 
