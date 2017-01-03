@@ -1,5 +1,22 @@
 ---
 
+id_conferencepaper_chi2017_triggers:
+  pubnum: C.65
+  authors:
+    - id_author_epstein_daniel
+    - id_author_lee_nicole
+    - id_author_kang_jennifer
+    - id_author_agapie_elena
+    - id_author_schroeder_jessica
+    - id_author_pina_laura
+    - id_author_fogarty_james
+    - id_author_kientz_julie
+    - id_author_munson_sean
+  title: 'Examining Menstrual Tracking to Inform the Design of Personal Informatics Tools'
+  conference: id_conference_chi_2017
+  localthumb: chi2017-menstrualtracking.png
+  localpdf: chi2017-menstrualtracking.pdf
+
 id_conferencepaper_cscw2017_triggers:
   pubnum: C.64
   authors:
