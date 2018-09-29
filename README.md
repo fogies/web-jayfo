@@ -1,165 +1,61 @@
-This is the beginning of a template for websites implemented using Jekyll.
+# web-jekyll-base
 
-# Project Dependencies
+[![Build Status](https://travis-ci.org/fogies/web-jayfo.svg?branch=master)](https://travis-ci.org/fogies/web-jayfo)
 
-Dependencies required for this project are:
-- Python 3.5.2
-- Node 4.5.0
-- Ruby 2.3.3
-- Ruby DevKit
+A fogies project used as a template for Jekyll websites.
 
-# Windows Installation
+Provides for a build process, common dependencies and extensions, and serving via docker-jekyll-site.
 
-## Installing Python
+## Project Dependencies
 
-[https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe](https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe)
+This project is based on a template:
 
-This documentation assumes an installation path of `c:/Python35`.
+[https://github.com/fogies/web-jekyll-base](https://github.com/fogies/web-jekyll-base)
 
-When installing Python:
+Which is in turn based on:
 
-- Choose 'Customize Installation'
-- On 'Optional Features':
+[https://github.com/fogies/invoke-base](https://github.com/fogies/invoke-base)
 
-  Check 'pip' and 'for all users (requires elevation)'.
+Runtime dependencies for this project are:
+- Python 3.6.6
+- Node 8.12.0
+- Ruby 2.5.1
 
-  Uncheck 'Documentation', 'tcl/tk and IDLE', 'Python test suite', 'py launcher'.
+See [Installation for Windows](https://github.com/fogies/web-jayfo/blob/master/readme/install_windows.md).
 
-- On 'Advanced Options':
+See [Installation for Mac](https://github.com/fogies/web-jayfo/blob/master/readme/install_mac.md).
 
-  Set an installation path of `c:/Python35`.
+## Tasks
 
-  Uncheck all options.
+This project uses Invoke for task execution. Available tasks can be listed:
 
-### Creating a Virtual Environment and Installing Dependencies
+`invoke -l`
 
-Create the virtual environment. From the working directory of our project (e.g., `c:/devel/web-jayfo`):
+See [Additional Task Documentation](https://github.com/fogies/web-jayfo/blob/master/readme/invoke.md).
 
-~~~
-c:/Python35/python.exe -m venv env35
-~~~
+Frequently used tasks will include:
 
-This will create a directory for the virtual environment (e.g., `c:/devel/web-jayfo/env35/`).
+### build_production
 
-Next activate that virtual environment and install our Python dependencies:
+Build the site to `_site`, using the production configuration in `_config-production.yml`.
 
-~~~
-env35/Scripts/activate.bat
-pip install -r requirements3.txt
-~~~
+`invoke build_production` 
 
-## Installing Node
+### build_test
 
-[https://nodejs.org/dist/v4.5.0/node-v4.5.0-x64.msi](https://nodejs.org/dist/v4.5.0/node-v4.5.0-x64.msi)
+Build the site to `_site`, using the test configuration in `_config-test.yml`.
 
-The default installation options are appropriate.
+`invoke build_test` 
 
-## Installing Ruby
+### serve_production
 
-[https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.3.exe](https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.3.exe)
+Serve the site on port 4000, using the production configuration in `_config-production.yml`.
 
-This documentation assumes an installation path of `c:/Ruby233`.
+`invoke serve_production` 
 
-When installing Ruby:
+### serve_test
 
-- On 'Installation Destination and Optional Tasks':
+Serve the site on port 4000, using the test configuration in `_config-test.yml`.
 
-  Set an installation path of `c:/Ruby233`.
-
-  Check 'Add Ruby executables to your PATH'.
-
-### Installing Ruby DevKit:
-
-[https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe](https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe)
-
-This documentation assumes an installation path of `c:/RubyDevKit`.
-
-When installing the Ruby DevKit:
-
-- Extract to `c:/RubyDevKit`.
-
-- Install the DevKit into the Ruby installation:
-
-  ~~~
-  cd c:/RubyDevKit
-  ruby dk.rb init
-  ruby dk.rb install
-  ~~~
-
-# Mac Installation
-
-## Installing Homebrew
-
-This documentation assumes use of Homebrew: [https://brew.sh/](https://brew.sh/).
-
-~~~
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-~~~
-
-The default installation options are appropriate.
-
-## Installing Python
-
-~~~
-brew install python3
-~~~
-
-Installing `python3` via Homebrew should automatically install `pip3`. Use that to install `virtualenv`.
-
-~~~
-pip3 install virtualenv
-~~~
-
-### Creating a Virtual Environment and Installing Dependencies
-
-Create the virtual environment. From the working directory of our project (e.g., `~/Desktop/web-jayfo`):
-
-~~~
-virtualenv -p python3 env35
-~~~
-
-This will create a directory for the virtual environment (e.g., `~/Desktop/web-jayfo/env35/`).
-
-Next activate that virtual environment and install our Python dependencies:
-
-~~~
-source env35/bin/activate
-pip3 install -r requirements3.txt
-~~~
-
-## Installing Node
-
-~~~
-brew install node
-~~~
-
-## Installing Ruby
-
-~~~
-brew install rbenv
-~~~
-
-Configure the terminal to include `rbenv`:
-
-~~~
-echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile`
-source ~/.bash_profile`
-~~~
-
-Install the correct version of Ruby:
-
-~~~
-rbenv install 2.3.3
-rbenv global 2.3.3
-~~~
-
-Alternatively, you can specify a Ruby version for the directory:
-
-~~~
-rbenv local 2.3.3
-~~~
-
-### Installing Ruby DevKit:
-
-Installing `rbenv` via Homebrew should automatically install `ruby-devkit`
+`invoke serve_test` 
 
