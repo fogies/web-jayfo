@@ -75,11 +75,10 @@ My broad research interests are in Human-Computer Interaction, User Interface So
 
 I pursue this work together with an outstanding group of collaborators and amazing advisees:
 
-* [Daniel Epstein](http://www.depstein.net/)
 * [Ravi Karkar](http://ravikarkar.com/)
-* [Laura Pina](http://homes.cs.washington.edu/~lpina/)
 * [Anne Ross](https://homes.cs.washington.edu/~ansross/)
 * [Jessie Schroeder](https://homes.cs.washington.edu/~jesscs/)
+* [Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
 * [Amanda Swearngin](https://homes.cs.washington.edu/~amaswea/)
 * [Xiaoyi Zhang](http://xiaoyizhang.me/)
 
