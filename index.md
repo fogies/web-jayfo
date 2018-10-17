@@ -58,8 +58,8 @@ jfogarty [at] cs [dot] washington [dot] edu
         </div>
         <div id="collapseResearchCoordinator" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingResearchCoordinator">
           <div class="panel-body">
-            Melody Kadenko<br/>
-            melody [at] cs [dot] washington [dot] edu
+            Nadica Kelley<br/>
+            nkelley [at] cs [dot] washington [dot] edu
           </div>
         </div>
       </div>
