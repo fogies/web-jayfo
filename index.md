@@ -82,6 +82,6 @@ I pursue this work together with an outstanding group of collaborators and amazi
 * [Amanda Swearngin](https://homes.cs.washington.edu/~amaswea/)
 * [Xiaoyi Zhang](http://xiaoyizhang.me/)
 
-My research has been directly supported by the National Science Foundation and by the Agency for Healthcare Research and Quality.
+My research has been directly supported by the National Science Foundation, the National Library of Medicine, and the Agency for Healthcare Research and Quality.
 
 My group has also been generously supported by Adobe, FXPAL, Google, Intel, Microsoft, and Nokia.
