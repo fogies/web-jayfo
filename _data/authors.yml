@@ -159,6 +159,11 @@ id_author_chalecki_jason:
     - Chalecki
     - Jason
 
+id_author_chen_keyu:
+  name:
+    - Chen
+    - Keyu
+
 id_author_cherry_erin:
   name:
     - Cherry
@@ -178,6 +183,16 @@ id_author_christensen_jim:
   name:
     - Christensen
     - Jim
+
+id_author_chung_chia-fang:
+  name:
+    - Chung
+    - Chia-Fang
+
+id_author_chung_jane:
+  name:
+    - Chung
+    - Jane
 
 id_author_clasen_peter:
   name:
@@ -209,20 +224,10 @@ id_author_cordeiro_felicia:
     - Cordeiro
     - Felicia
 
-id_author_chen_keyu:
+id_author_culhane_ian:
   name:
-    - Chen
-    - Keyu
-
-id_author_chung_chia-fang:
-  name:
-    - Chung
-    - Chia-Fang
-
-id_author_chung_jane:
-  name:
-    - Chung
-    - Jane
+    - Culhane
+    - Ian
 
 id_author_dabbish_laura:
   name:
@@ -424,6 +429,11 @@ id_author_jagannathan_arvind:
     - Arvind
     - K.
 
+id_author_jain_shobhit:
+  name:
+    - Jain
+    - Shobhit
+
 id_author_johnston_chuck:
   name:
     - Johnston
@@ -596,6 +606,11 @@ id_author_makedon_ilya:
     - Makedon
     - Ilya
 
+id_author_mankoff_jennifer:
+  name:
+    - Mankoff
+    - Jennifer
+
 id_author_matthews_mark:
   name:
     - Matthews
@@ -753,6 +768,11 @@ id_author_steck_david:
     - Steck
     - David
 
+id_author_sun_yuqian:
+  name:
+    - Sun
+    - Yuqian
+
 id_author_swearngin_amanda:
   name:
     - Swearngin
@@ -784,6 +804,11 @@ id_author_toomim_michael:
   name:
     - Toomim
     - Michael
+
+id_author_tran_tracy:
+  name:
+    - Tran
+    - Tracy
 
 id_author_tullio_joe:
   name:
