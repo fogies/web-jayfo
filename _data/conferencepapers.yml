@@ -10,6 +10,7 @@ id_conferencepaper_assets2018_labeling:
   title: 'Examining Image-Based Button Labeling for Accessibility in Android Apps through Large-Scale Analysis'
   conference: id_conference_assets_2018
   pages: 119-130
+  officialurl: https://doi.org/10.1145/3234695.3236364
   localthumb: assets2018-labeling.png
   localpdf: assets2018-labeling.pdf
 
@@ -26,6 +27,7 @@ id_conferencepaper_assets2018_interactiles:
   title: 'Interactiles: 3D Printed Tactile Interfaces to Enhance Mobile Touchscreen Accessibility'
   conference: id_conference_assets_2018
   pages: 131-142
+  officialurl: https://doi.org/10.1145/3234695.3236349
   localthumb: assets2018-interactiles.png
   localpdf: assets2018-interactiles.pdf
 
@@ -38,6 +40,7 @@ id_conferencepaper_uist2018:
   title: 'Robust Annotation of Mobile Application Interfaces in Methods for Accessibility Repair and Enhancement'
   conference: id_conference_uist_2018
   pages: 609-621
+  officialurl: https://doi.org/10.1145/3242587.3242616
   localthumb: uist2018.png
   localpdf: uist2018.pdf
 
@@ -55,6 +58,7 @@ id_conferencepaper_dis2018:
   title: 'Examining Self-Tracking by People with Migraine: Goals, Needs, and Opportunities in a Chronic Health Condition'
   conference: id_conference_dis_2018
   pages: 135-148
+  officialurl: https://doi.org/10.1145/3196709.3196738
   localthumb: dis2018.png
   localpdf: dis2018.pdf
 
