@@ -1,5 +1,46 @@
 ---
 
+id_conferencepaper_assets2018_labeling:
+  pubnum: C.76
+  authors:
+    - id_author_ross_anne
+    - id_author_zhang_xiaoyi
+    - id_author_fogarty_james
+    - id_author_wobbrock_jacob
+  title: 'Examining Image-Based Button Labeling for Accessibility in Android Apps through Large-Scale Analysis'
+  conference: id_conference_assets_2018
+  pages: 119-130
+  localthumb: assets2018-labeling.png
+  localpdf: assets2018-labeling.pdf
+
+id_conferencepaper_assets2018_interactiles:
+  pubnum: C.75
+  authors:
+    - id_author_zhang_xiaoyi
+    - id_author_tran_tracy
+    - id_author_sun_yuqian
+    - id_author_culhane_ian
+    - id_author_jain_shobhit
+    - id_author_fogarty_james
+    - id_author_mankoff_jennifer
+  title: 'Interactiles: 3D Printed Tactile Interfaces to Enhance Mobile Touchscreen Accessibility'
+  conference: id_conference_assets_2018
+  pages: 131-142
+  localthumb: assets2018-interactiles.png
+  localpdf: assets2018-interactiles.pdf
+
+id_conferencepaper_uist2018:
+  pubnum: C.74
+  authors:
+    - id_author_zhang_xiaoyi
+    - id_author_ross_anne
+    - id_author_fogarty_james
+  title: 'Robust Annotation of Mobile Application Interfaces in Methods for Accessibility Repair and Enhancement'
+  conference: id_conference_uist_2018
+  pages: 609-621
+  localthumb: uist2018.png
+  localpdf: uist2018.pdf
+
 id_conferencepaper_dis2018:
   pubnum: C.73
   authors:
@@ -13,6 +54,7 @@ id_conferencepaper_dis2018:
     - id_author_munson_sean
   title: 'Examining Self-Tracking by People with Migraine: Goals, Needs, and Opportunities in a Chronic Health Condition'
   conference: id_conference_dis_2018
+  pages: 135-148
   localthumb: dis2018.png
   localpdf: dis2018.pdf
 
@@ -40,6 +82,7 @@ id_conferencepaper_ecscw2017:
     - id_author_neff_gina
   title: 'Deliberate Individual Change Framework for Understanding Programming Practices in Four Oceanography Groups'
   conference: id_conference_ecscw_2017
+  pages: 663-691
   officialurl: https://doi.org/10.1007/s10606-017-9285-x
   localthumb: ecscw2017.png
   localpdf: ecscw2017.pdf
