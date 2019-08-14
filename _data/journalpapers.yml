@@ -1,5 +1,25 @@
 ---
 
+id_journalpaper_imwut2019:
+  pubnum: J.11
+  authors:
+    - id_author_chung_chia-fang
+    - id_author_wang_qiaosi
+    - id_author_schroeder_jessica
+    - id_author_cole_allison
+    - id_author_zia_jasmine
+    - id_author_fogarty_james
+    - id_author_munson_sean
+  title: 'Identifying and Planning for Individualized Change: Patient-Provider Collaboration Using Lightweight Food Diaries in Healthy Eating and Irritable Bowel Syndrome'
+  journal: id_journal_imwut
+  year: 2019
+  volume: 3
+  issue: 1
+  pages: 1-27 # (article number 7)
+  officialurl: https://doi.org/10.1145/3314394
+  localthumb: imwut2019.png
+  localpdf: imwut2019.pdf
+
 id_journalpaper_imwut2018:
   pubnum: J.10
   authors:
