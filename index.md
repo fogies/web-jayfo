@@ -78,6 +78,7 @@ I pursue this work together with an outstanding group of collaborators and amazi
 * [Raymond Fok](https://rayfok.github.io/website/)
 * [Liwei Jiang](https://www.linkedin.com/in/liwei-jiang-jlw)
 * [Ravi Karkar](http://ravikarkar.com/)
+* [Richard Li](https://lichard49.github.io/)
 * [Kelly Mack](https://kmack3.github.io/)
 * [Jesse Martinez](https://www.linkedin.com/in/jesse-martinez-91109a120)
 * [Alex Okeson](https://www.linkedin.com/in/alexandraokeson)
