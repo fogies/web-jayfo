@@ -86,7 +86,7 @@ I pursue this work together with an outstanding group of collaborators and amazi
 * [Jessie Schroeder](https://homes.cs.washington.edu/~jesscs/)
 * [Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
 * [Amanda Swearngin](https://homes.cs.washington.edu/~amaswea/)
-* [Mingyuan Zhong](https://jasonzhong.com/)
+* [Mingyuan (Jason) Zhong](https://jasonzhong.com/)
 
 My research has been directly supported by the National Science Foundation, the National Library of Medicine, and the Agency for Healthcare Research and Quality.
 
