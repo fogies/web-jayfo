@@ -95,7 +95,7 @@ id_conferencepaper_chi2017_genie:
   pubnum: C.70
   authors:
     - id_author_swearngin_amanda
-    - id_author_ko_andrew
+    - id_author_ko_amy
     - id_author_fogarty_james
   title: 'Genie: Input Retargeting on the Web through Command Reverse Engineering'
   conference: id_conference_chi_2017
@@ -622,7 +622,7 @@ id_conferencepaper_uist2010:
     - id_author_bancroft_naomi
     - id_author_drucker_steven
     - id_author_fogarty_james
-    - id_author_ko_andrew
+    - id_author_ko_amy
     - id_author_landay_james
   title: 'Gestalt: Integrated Support for Implementation and Analysis in Machine Learning Processes'
   conference: id_conference_uist_2010
@@ -1017,7 +1017,7 @@ id_conferencepaper_chi2005:
   pubnum: C.08
   authors:
     - id_author_fogarty_james
-    - id_author_ko_andrew
+    - id_author_ko_amy
     - id_author_aung_htet_htet
     - id_author_golden_elspeth
     - id_author_tang_karen
