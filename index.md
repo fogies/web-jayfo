@@ -80,7 +80,7 @@ I pursue this work together with an outstanding group of collaborators and amazi
 * [Ravi Karkar](http://ravikarkar.com/)
 * [Richard Li](https://lichard49.github.io/)
 * [Jesse Martinez](https://www.linkedin.com/in/jesse-martinez-91109a120)
-* [Alex Okeson](https://www.linkedin.com/in/alexandraokeson)
+* [Alex Okeson](https://aokeson.github.io)
 * [Anne Ross](https://homes.cs.washington.edu/~ansross/)
 * [Jessie Schroeder](https://homes.cs.washington.edu/~jesscs/)
 * [Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
