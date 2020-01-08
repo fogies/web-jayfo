@@ -76,10 +76,10 @@ My broad research interests are in Human-Computer Interaction, User Interface So
 I pursue this work together with an outstanding group of collaborators and amazing advisees:
 
 * [Raymond Fok](https://rayfok.github.io/website/)
-* [Liwei Jiang](https://www.linkedin.com/in/liwei-jiang-jlw)
+* [Liwei Jiang](https://liweijiang.me/)
 * [Ravi Karkar](http://ravikarkar.com/)
 * [Richard Li](https://lichard49.github.io/)
-* [Jesse Martinez](https://www.linkedin.com/in/jesse-martinez-91109a120)
+* [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/)
 * [Alex Okeson](https://aokeson.github.io)
 * [Anne Ross](https://homes.cs.washington.edu/~ansross/)
 * [Jessie Schroeder](https://homes.cs.washington.edu/~jesscs/)
