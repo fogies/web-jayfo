@@ -76,15 +76,13 @@ My broad research interests are in Human-Computer Interaction, User Interface So
 I pursue this work together with an outstanding group of collaborators and amazing advisees:
 
 * [Raymond Fok](https://rayfok.github.io/website/)
-* [Liwei Jiang](https://liweijiang.me/)
 * [Ravi Karkar](http://ravikarkar.com/)
 * [Richard Li](https://lichard49.github.io/)
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/)
 * [Alex Okeson](https://aokeson.github.io)
 * [Anne Ross](https://homes.cs.washington.edu/~ansross/)
-* [Jessie Schroeder](https://homes.cs.washington.edu/~jesscs/)
+* [Yasaman Sefidgar](https://sefyas.github.io/)
 * [Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
-* [Amanda Swearngin](https://amaswea.github.io/)
 * [Mingyuan (Jason) Zhong](https://jasonzhong.com/)
 
 My research has been directly supported by the National Science Foundation, the National Library of Medicine, and the Agency for Healthcare Research and Quality.
