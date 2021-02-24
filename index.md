@@ -58,8 +58,8 @@ jfogarty [at] cs [dot] washington [dot] edu
         </div>
         <div id="collapseResearchCoordinator" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingResearchCoordinator">
           <div class="panel-body">
-            Nadica Kelley<br/>
-            nkelley [at] cs [dot] washington [dot] edu
+            Elaine Shelley<br/>
+            eshelley [at] cs [dot] washington [dot] edu
           </div>
         </div>
       </div>
