@@ -75,7 +75,7 @@ My broad research interests are in Human-Computer Interaction, User Interface So
 
 I pursue this work together with an outstanding group of collaborators and amazing advisees:
 
-* [Raymond Fok](https://rayfok.github.io/website/)
+* [Raymond Fok](https://rayfok.github.io/)
 * [Ravi Karkar](http://ravikarkar.com/)
 * [Richard Li](https://lichard49.github.io/)
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/)
