@@ -84,6 +84,7 @@ I pursue this work together with an outstanding group of collaborators and amazi
 * [Yasaman Sefidgar](https://sefyas.github.io/)
 * [Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
 * [Mingyuan (Jason) Zhong](https://jasonzhong.com/)
+* [Anant Mittal](https://anantmittal.github.io/)
 
 My research has been directly supported by the National Science Foundation, the National Library of Medicine, and the Agency for Healthcare Research and Quality.
 
