@@ -77,7 +77,7 @@ I pursue this work together with an outstanding group of collaborators and curre
 
 * [Shaan Chopra](https://shaan15.github.io/)
 * [Tae Jones](https://taetertot.github.io/)
-* [Aaleyah Lewis)(https://aaleyahlewis.github.io/)
+* [Aaleyah Lewis](https://aaleyahlewis.github.io/)
 * [Richard Li](https://lichard49.github.io/)
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/)
 * [Anant Mittal](https://anantmittal.github.io/)
