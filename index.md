@@ -73,18 +73,16 @@ I am a Professor of Computer Science & Engineering at the University of Washingt
 
 My broad research interests are in Human-Computer Interaction, User Interface Software and Technology, and Ubiquitous Computing. My focus is on developing, deploying, and evaluating new approaches to the human obstacles surrounding widespread everyday adoption of ubiquitous sensing and intelligent computing technologies.
 
-I pursue this work together with an outstanding group of collaborators and amazing advisees:
+I pursue this work together with an outstanding group of collaborators and current advisees:
 
-* [Raymond Fok](https://rayfok.github.io/website/)
-* [Liwei Jiang](https://www.linkedin.com/in/liwei-jiang-jlw)
-* [Ravi Karkar](http://ravikarkar.com/)
+* [Shaan Chopra](https://shaan15.github.io/)
+* [Tae Jones](https://taetertot.github.io/)
+* [Aaleyah Lewis)(https://aaleyahlewis.github.io/)
 * [Richard Li](https://lichard49.github.io/)
-* [Jesse Martinez](https://www.linkedin.com/in/jesse-martinez-91109a120)
-* [Alex Okeson](https://www.linkedin.com/in/alexandraokeson)
-* [Anne Ross](https://homes.cs.washington.edu/~ansross/)
-* [Jessie Schroeder](https://homes.cs.washington.edu/~jesscs/)
+* [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/)
+* [Anant Mittal](https://anantmittal.github.io/)
+* [Yasaman Sefidgar](https://sefyas.github.io/)
 * [Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
-* [Amanda Swearngin](https://amaswea.github.io/)
 * [Mingyuan (Jason) Zhong](https://jasonzhong.com/)
 
 My research has been directly supported by the National Science Foundation, the National Library of Medicine, and the Agency for Healthcare Research and Quality.
