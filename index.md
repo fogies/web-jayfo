@@ -48,15 +48,6 @@ jfogarty [at] cs [dot] washington [dot] edu
           </div>
         </div>
       </div>
-      <div class="panel panel-default">
-        <div class="panel-heading" role="tab" id="headingResearchCoordinator">
-          <div class="panel-title">
-            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionContact" href="#collapseResearchCoordinator" aria-expanded="false" aria-controls="collapseResearchCoordinator">
-              Research Coordinator &raquo;
-            </a>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </div>
