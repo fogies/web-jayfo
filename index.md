@@ -58,7 +58,7 @@ I am a Professor of Computer Science & Engineering at the University of Washingt
 
 My broad research interests are in Human-Computer Interaction, User Interface Software and Technology, and Ubiquitous Computing. My focus is on developing, deploying, and evaluating new approaches to the human obstacles surrounding widespread everyday adoption of ubiquitous sensing and intelligent computing technologies.
 
-I pursue this work together with an outstanding group of collaborators and current advisees:
+I pursue this work together with an outstanding group of collaborators and amazing current advisees:
 
 * [Shaan Chopra](https://shaan15.github.io/)
 * [Tae Jones](https://taetertot.github.io/)
