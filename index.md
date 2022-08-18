@@ -48,21 +48,6 @@ jfogarty [at] cs [dot] washington [dot] edu
           </div>
         </div>
       </div>
-      <div class="panel panel-default">
-        <div class="panel-heading" role="tab" id="headingResearchCoordinator">
-          <div class="panel-title">
-            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionContact" href="#collapseResearchCoordinator" aria-expanded="false" aria-controls="collapseResearchCoordinator">
-              Research Coordinator &raquo;
-            </a>
-          </div>
-        </div>
-        <div id="collapseResearchCoordinator" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingResearchCoordinator">
-          <div class="panel-body">
-            Elaine Shelley<br/>
-            eshelley [at] cs [dot] washington [dot] edu
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </div>
@@ -73,14 +58,14 @@ I am a Professor of Computer Science & Engineering at the University of Washingt
 
 My broad research interests are in Human-Computer Interaction, User Interface Software and Technology, and Ubiquitous Computing. My focus is on developing, deploying, and evaluating new approaches to the human obstacles surrounding widespread everyday adoption of ubiquitous sensing and intelligent computing technologies.
 
-I pursue this work together with an outstanding group of collaborators and amazing advisees:
+I pursue this work together with an outstanding group of collaborators and amazing current advisees:
 
-* [Raymond Fok](https://rayfok.github.io/)
-* [Ravi Karkar](http://ravikarkar.com/)
+* [Shaan Chopra](https://shaan15.github.io/)
+* [Tae Jones](https://taetertot.github.io/)
+* [Aaleyah Lewis](https://aaleyahlewis.github.io/)
 * [Richard Li](https://lichard49.github.io/)
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/)
-* [Alex Okeson](https://aokeson.github.io)
-* [Anne Ross](https://homes.cs.washington.edu/~ansross/)
+* [Anant Mittal](https://anantmittal.github.io/)
 * [Yasaman Sefidgar](https://sefyas.github.io/)
 * [Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
 * [Mingyuan (Jason) Zhong](https://jasonzhong.com/)
