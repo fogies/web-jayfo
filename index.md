@@ -34,19 +34,26 @@ jfogarty [at] cs [dot] washington [dot] edu
       <div class="panel panel-default">
         <div class="panel-heading" role="tab" id="headingMailingAddress">
           <div class="panel-title">
+            <!--
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionContact" href="#collapseMailingAddress" aria-expanded="false" aria-controls="collapseMailingAddress">
               Mailing Address &raquo;
             </a>
+            -->
+            Mailing Address
           </div>
         </div>
+        <!--
         <div id="collapseMailingAddress" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingMailingAddress">
+        -->
           <div class="panel-body">
             Computer Science &amp; Engineering<br/>
             University of Washington<br/>
             Box 352350<br/>
             Seattle, WA 98195
           </div>
+        <!--
         </div>
+        -->
       </div>
     </div>
   </div>
